@@ -1,0 +1,15 @@
+html{background-color: black
+    ;}
+#q{     width:50%;
+        margin: 25%;
+        margin: top 100px;
+        text-align: center;
+        font-family: 'Libre Baskerville', serif;
+        color: white;
+  }
+ #b{text-transform: uppercase;
+    font-size: 3rem;}
+ #a{ border:5px solid white;
+    width: 100%;}
+
+
